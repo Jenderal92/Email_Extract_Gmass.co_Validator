@@ -1,6 +1,8 @@
 # Email_Extract_Gmass.co_Validator
 Python 2.7
 
+The tools will take a long time because the website is too slow, so be patient
+
 Donation :
 
 BTC : 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1
